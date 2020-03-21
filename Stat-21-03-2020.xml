@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weathers>
+  <weather city="Киев" id="33345">
+    <day>Вечер 21 Mar Sat</day>
+    <temp_min>3</temp_min>
+    <temp_max>5</temp_max>
+  </weather>
+  <weather city="Астана" id="35188">
+    <day>Вечер 21 Mar Sat</day>
+    <temp_min>2</temp_min>
+    <temp_max>4</temp_max>
+  </weather>
+  <weather city="Ашхабад" id="38880">
+    <day>Вечер 21 Mar Sat</day>
+    <temp_min>10</temp_min>
+    <temp_max>12</temp_max>
+  </weather>
+  <weather city="Москва" id="27612">
+    <day>Вечер 21 Mar Sat</day>
+    <temp_min>-2</temp_min>
+    <temp_max>-4</temp_max>
+  </weather>
+  <weather city="Рига" id="26422">
+    <day>Вечер 21 Mar Sat</day>
+    <temp_min>0</temp_min>
+    <temp_max>-2</temp_max>
+  </weather>
+</Weathers>

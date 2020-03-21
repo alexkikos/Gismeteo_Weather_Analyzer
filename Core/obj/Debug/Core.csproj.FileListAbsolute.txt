@@ -1,0 +1,5 @@
+F:\Мои документы\c+++\ШАГ\C#\Weather\Core\bin\Debug\Core.dll
+F:\Мои документы\c+++\ШАГ\C#\Weather\Core\bin\Debug\Core.pdb
+F:\Мои документы\c+++\ШАГ\C#\Weather\Core\obj\Debug\Core.csprojAssemblyReference.cache
+F:\Мои документы\c+++\ШАГ\C#\Weather\Core\obj\Debug\Core.dll
+F:\Мои документы\c+++\ШАГ\C#\Weather\Core\obj\Debug\Core.pdb
